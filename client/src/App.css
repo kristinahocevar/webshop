@@ -1,0 +1,33 @@
+body{
+  background-color: rgb(175, 195, 201);
+}
+
+.page-title {
+  display: block !important;
+  text-align: center;
+  font-size: 2rem;
+  margin-top: 40px;
+  margin-bottom: 30px;
+}
+
+.ui.justified.container{
+  width: 90pc;
+}
+
+.form-container {
+  width: 400px;
+  margin: auto;
+}
+
+.ui.teal.button:focus,
+.ui.teal.buttons .button:focus {
+  background-color: #00b5ad;
+}
+
+.ui.card {
+  width: 350px;
+}
+
+.ui.image.medium{
+  width: 500px;
+}
