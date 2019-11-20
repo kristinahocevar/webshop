@@ -1,5 +1,5 @@
 {
-  "name": "merng",
+  "name": "webshop",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -10,11 +10,11 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "apollo-server": "^2.5.0",
+    "apollo-server": "^2.9.9",
     "bcryptjs": "^2.4.3",
-    "graphql": "^14.3.1",
+    "graphql": "^14.5.8",
     "jsonwebtoken": "^8.5.1",
-    "mongoose": "^5.5.11",
+    "mongoose": "^5.7.12",
     "websocket": "^1.0.30"
   },
   "devDependencies": {
